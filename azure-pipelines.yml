@@ -6,6 +6,8 @@
 trigger:
 - master
 
+Steps: 0 for commit practice..
+
 pool:
   vmImage: 'Ubuntu-16.04'
 
